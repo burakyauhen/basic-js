@@ -9,21 +9,31 @@ const chainMaker = {
     throw new NotImplementedError('Not implemented');
     // remove line with error and write your code here
   },
-  addLink(/* value */) {
+
+
+  addLink(/* value */ value) {
+    throw new NotImplementedError('Not implemented');
+    // remove line with error and write your code here
+   
+  },
+
+
+  removeLink(/* position */position) {
     throw new NotImplementedError('Not implemented');
     // remove line with error and write your code here
   },
-  removeLink(/* position */) {
-    throw new NotImplementedError('Not implemented');
-    // remove line with error and write your code here
-  },
+
+
   reverseChain() {
     throw new NotImplementedError('Not implemented');
     // remove line with error and write your code here
   },
+
+
   finishChain() {
     throw new NotImplementedError('Not implemented');
     // remove line with error and write your code here
+   
   }
 };
 
